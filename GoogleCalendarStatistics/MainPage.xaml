@@ -6,11 +6,30 @@
              mc:Ignorable="d"
              x:Class="GoogleCalendarStatistics.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+    <StackLayout Margin="20"
+                 VerticalOptions="Center">
+        
+       
+        <Label Text="Google Calendar Statistics Alpha"
+               
+               TextColor="#B23121"
+               
+           
+            />
+
+        <Entry Placeholder="Email"
+               Keyboard="Email"/>
+
+        <Entry Placeholder="Password"
+               IsPassword="True"
+               />
+
+        <Button Text="Log in"
+                TextColor="White"
+                BackgroundColor="#B23121"/>
+        
+
+
     </StackLayout>
 
 </ContentPage>
