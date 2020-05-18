@@ -1,0 +1,14 @@
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\bin\Debug\netstandard2.0\GoogleCalendarStatistics.deps.json
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\bin\Debug\netstandard2.0\GoogleCalendarStatistics.dll
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\bin\Debug\netstandard2.0\ref\GoogleCalendarStatistics.dll
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\bin\Debug\netstandard2.0\GoogleCalendarStatistics.pdb
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\obj\Debug\netstandard2.0\GoogleCalendarStatistics.csprojAssemblyReference.cache
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\obj\Debug\netstandard2.0\GoogleCalendarStatistics.csproj.CoreCompileInputs.cache
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\obj\Debug\netstandard2.0\GoogleCalendarStatistics.AssemblyInfoInputs.cache
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\obj\Debug\netstandard2.0\GoogleCalendarStatistics.AssemblyInfo.cs
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\obj\Debug\netstandard2.0\GoogleCalendarStatistics.dll
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\obj\Debug\netstandard2.0\ref\GoogleCalendarStatistics.dll
+C:\Users\frede\source\repos\GoogleCalendarStatistics\GoogleCalendarStatistics\obj\Debug\netstandard2.0\GoogleCalendarStatistics.pdb
